@@ -1,29 +1,58 @@
-# AluraStore
-Desafio acadêmico do curso de Data Science
+🛒 Alura Store - Análise de Lojas Virtuais
+Este projeto realiza uma análise exploratória de dados de quatro lojas virtuais fictícias da Alura Store, com o objetivo de avaliar o desempenho individual de cada loja e oferecer suporte à tomada de decisão estratégica quanto à venda de uma das unidades.
 
-Detalhes do Projeto:
-Analisar os dados das lojas:
-Avaliação das informações como faturamento, categorias mais vendidas, avaliações dos clientes, produtos mais vendidos e frete médio.
-Criar gráficos para visualização:
-Usar gráficos para apresentar os resultados de maneira clara e visual.
-incluir gráficos de barras, pizza, dispersão, entre outros.
-Apresentar uma recomendação:
-Escrever um relatório explicando qual loja o Senhor João deve vender e por quê, com base nos dados apresentados.
-Projeto para Data Science da Alura no ONE+ Oracle
-Ferramentas utilizadas:
-🐍 Python
-🐼 Pandas
-📉 Matplotlib
+🔍 Objetivo da Análise
+Identificar a loja com pior desempenho geral com base nos seguintes indicadores:
 
-📈 Métricas Avaliadas
-Faturamento, Despesas e Saldo;
+📈 Faturamento total
 
-Quantidade de Vendas por Categoria;
+📦 Distribuição de categorias de produtos
 
-Avaliação Média dos Clientes;
+⭐ Média de avaliação dos clientes
 
-Frete Médio;
+🔥 Produtos mais e menos vendidos
 
-Produtos Mais e Menos Vendidos;
+🚚 Frete médio por loja
 
-Faturamento por Região
+📊 Visualizações Criadas
+Faturamento por Loja
+Gráfico de barras exibindo o faturamento total de cada loja, incluindo o valor total consolidado.
+
+Categorias de Produtos por Loja
+Gráfico de barras agrupadas, comparando as categorias de produtos comercializadas em cada loja.
+
+Média de Avaliação das Compras
+Gráfico de dispersão com a nota média atribuída pelos clientes para cada loja.
+
+Produtos Mais e Menos Vendidos por Loja
+Dois gráficos de pizza mostrando os produtos com maior e menor volume de vendas por loja.
+
+Frete Médio por Loja
+Gráfico de barras horizontais apresentando o valor médio do frete cobrado por loja.
+
+🧪 Tecnologias Utilizadas
+Python
+
+Pandas (análise de dados)
+
+Matplotlib (visualização de dados)
+
+📌 Principais Insights
+Loja 1: Maior faturamento entre todas as lojas.
+
+Loja 3: Melhor avaliação pelos clientes e maior equilíbrio entre as categorias vendidas.
+
+Loja 4: Menor faturamento e desempenho inferior nos principais indicadores analisados.
+
+✅ Conclusão
+Com base na análise dos dados, a Loja 4 é a mais indicada para ser vendida ou descontinuada, pois apresenta:
+
+O menor faturamento geral
+
+Baixo desempenho nas vendas por categoria
+
+Avaliações dos clientes abaixo da média
+
+👤 Autor
+Lucca Santos
+📎 LinkedIn - https://www.linkedin.com/in/lucca-masiero/
