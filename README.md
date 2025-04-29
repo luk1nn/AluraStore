@@ -1,7 +1,9 @@
 🛒 Alura Store - Análise de Lojas Virtuais
+
 Este projeto realiza uma análise exploratória de dados de quatro lojas virtuais fictícias da Alura Store, com o objetivo de avaliar o desempenho individual de cada loja e oferecer suporte à tomada de decisão estratégica quanto à venda de uma das unidades.
 
 🔍 Objetivo da Análise
+
 Identificar a loja com pior desempenho geral com base nos seguintes indicadores:
 
 📈 Faturamento total
@@ -15,6 +17,7 @@ Identificar a loja com pior desempenho geral com base nos seguintes indicadores:
 🚚 Frete médio por loja
 
 📊 Visualizações Criadas
+
 Faturamento por Loja
 Gráfico de barras exibindo o faturamento total de cada loja, incluindo o valor total consolidado.
 
@@ -31,6 +34,7 @@ Frete Médio por Loja
 Gráfico de barras horizontais apresentando o valor médio do frete cobrado por loja.
 
 🧪 Tecnologias Utilizadas
+
 Python
 
 Pandas (análise de dados)
@@ -38,6 +42,7 @@ Pandas (análise de dados)
 Matplotlib (visualização de dados)
 
 📌 Principais Insights
+
 Loja 1: Maior faturamento entre todas as lojas.
 
 Loja 3: Melhor avaliação pelos clientes e maior equilíbrio entre as categorias vendidas.
@@ -45,6 +50,7 @@ Loja 3: Melhor avaliação pelos clientes e maior equilíbrio entre as categoria
 Loja 4: Menor faturamento e desempenho inferior nos principais indicadores analisados.
 
 ✅ Conclusão
+
 Com base na análise dos dados, a Loja 4 é a mais indicada para ser vendida ou descontinuada, pois apresenta:
 
 O menor faturamento geral
